@@ -1,0 +1,4 @@
+1- creation des routes dnas /route/web.php
+2- création des pages dans resources/views/page
+3- création des dossiers de chaque page dans le dossier partials 
+4- 
